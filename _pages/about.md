@@ -38,6 +38,8 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 
 **Pei He**, Lingling Li*, Licheng Jiao*, Ronghua Shang, Fang Liu, Shuang Wang, Xu Liu, Wenping Ma
 
+IEEE/CVF International Conference on Computer Vision (ICCV 2025)
+
 [PDF](https://arxiv.org/pdf/2508.11265)
 [CODE](https://github.com/ChicalH/DCGL) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:Tyk-4Ss8FVUC'></span></strong>
@@ -52,6 +54,8 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 [Domain Generalization-Aware Uncertainty Introspective Learning for 3D Point Clouds Segmentation](https://dl.acm.org/doi/abs/10.1145/3664647.3681574)
 
 **Pei He**, Licheng Jiao*, Lingling Li, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang, Ronghua Shang
+
+ACM International Conference on Multimedia (ACMMM 2024)
 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681574) 
 [CODE](https://github.com/ChicalH/DGUIL) 
@@ -68,6 +72,8 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 
 **Pei He**, Licheng Jiao*, Ronghua Shang, Xu Liu, Fang Liu, Shuyuan Yang, Xiangrong Zhang, Shuang Wang
 
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2023)
+
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144687) 
 [Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_9ZVP1wAAAAJ&citation_for_view=_9ZVP1wAAAAJ:d1gkVwhDpl0C)
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:d1gkVwhDpl0C'></span></strong>
@@ -81,6 +87,8 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 [Cross-Domain Scene Unsupervised Learning Segmentation With Dynamic Subdomains](https://ieeexplore.ieee.org/abstract/document/10403926)
 
 **Pei He**, Licheng Jiao*, Fang Liu, Xu Liu, Ronghua Shang, Shuang Wang
+
+IEEE Transactions on Multimedia (TMM, 2024)
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10403926)) 
 [CODE](https://github.com/ChicalH/SSDA) 
@@ -96,6 +104,8 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 
 **Pei He**, Licheng Jiao*, Ronghua Shang, Shuang Wang, Xu Liu, Dou Quan, Kun Yang, Dong Zhao
 
+IEEE Transactions on Geoscience and Remote Sensing (TGRS, 2022)
+
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9785828)) 
 [Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:ALROH1vI_8AC'></span></strong>
 </div>
@@ -108,6 +118,8 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 [Brain-Inspired Learning, Perception, and Cognition: A Comprehensive Review](https://ieeexplore.ieee.org/abstract/document/10540615/)
 
 Licheng Jiao*, Mengru Ma, **Pei He**, Xueli Geng, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang, Biao Hou, Xu Tang
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2024)
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540615))
 [Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_9ZVP1wAAAAJ&citation_for_view=_9ZVP1wAAAAJ:UeHWp8X0CEIC)<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:UeHWp8X0CEIC'></span></strong>
