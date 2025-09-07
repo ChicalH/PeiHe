@@ -41,7 +41,7 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 IEEE/CVF International Conference on Computer Vision (ICCV 2025)
 
 [PDF](https://arxiv.org/pdf/2508.11265)
-[CODE](https://github.com/ChicalH/DCGL) 
+[Code coming soon](https://github.com/ChicalH/DCGL) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:Tyk-4Ss8FVUC'></span></strong>
 
 </div>
@@ -58,7 +58,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV 2025)
 ACM International Conference on Multimedia (ACMMM 2024)
 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681574) 
-[CODE](https://github.com/ChicalH/DGUIL) 
+[Code coming soon](https://github.com/ChicalH/DGUIL) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:zYLM7Y9cAGgC'></span></strong>
 
 </div>
@@ -90,7 +90,7 @@ IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2023)
 IEEE Transactions on Multimedia (TMM, 2024)
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10403926)) 
-[CODE](https://github.com/ChicalH/SSDA) 
+[Code](https://github.com/ChicalH/SSDA) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:9yKSN-GCB0IC'></span></strong>
 </div>
 </div>
