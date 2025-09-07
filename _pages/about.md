@@ -38,7 +38,7 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 
 **Pei He**, Lingling Li*, Licheng Jiao*, Ronghua Shang, Fang Liu, Shuang Wang, Xu Liu, Wenping Ma
 
-[PDF](https://arxiv.org/abs/2508.11265)
+[PDF](https://arxiv.org/pdf/2508.11265)
 [CODE](https://github.com/ChicalH/DCGL) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:Tyk-4Ss8FVUC'></span></strong>
 
@@ -69,6 +69,7 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 **Pei He**, Licheng Jiao*, Ronghua Shang, Xu Liu, Fang Liu, Shuyuan Yang, Xiangrong Zhang, Shuang Wang
 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144687) 
+[Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_9ZVP1wAAAAJ&citation_for_view=_9ZVP1wAAAAJ:d1gkVwhDpl0C)
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:d1gkVwhDpl0C'></span></strong>
 </div>
 </div>
@@ -96,7 +97,7 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 **Pei He**, Licheng Jiao*, Ronghua Shang, Shuang Wang, Xu Liu, Dou Quan, Kun Yang, Dong Zhao
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9785828)) 
-<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:u-x6o8ySG0sC'></span></strong>
+[Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -109,7 +110,7 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 Licheng Jiao*, Mengru Ma, **Pei He**, Xueli Geng, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang, Biao Hou, Xu Tang
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540615))
-<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:UeHWp8X0CEIC'></span></strong>
+[Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_9ZVP1wAAAAJ&citation_for_view=_9ZVP1wAAAAJ:UeHWp8X0CEIC)<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
 
@@ -130,4 +131,4 @@ Licheng Jiao*, Mengru Ma, **Pei He**, Xueli Geng, Xu Liu, Fang Liu, Wenping Ma, 
 - Reviewer for Journal (TEEE TPAMI、TIP、TNNLS、TCSVT、TMM) 
 
 # 💬 Invited Talks
-- *2025.09*, ICCV Preliminary Lecture Invited by AITIME [Lorem](), China.
+- *2025.09*, ICCV 2025 Preliminary Lecture Invited by AITIME, China.
