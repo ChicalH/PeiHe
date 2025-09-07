@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Pei He (何佩)"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,42 +17,97 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a full-time postdoctoral fellow at Xidian University. I received my Ph.D. from the School of Artificial Intelligence at Xidian University, with Professor [Jiao Licheng](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en) as my advisor.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Computer Vision, 3D Point Cloud, Generalized Representation, Semantic Segmentation.  <a href='https://scholar.google.com/citations?user=_9ZVP1wAAAAJ&hl=en'>Google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (Google scholar badge <a href='https://scholar.google.com/citations?user=_9ZVP1wAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+PS: If you want to have a chat, always feel free to contact me through e-mail, or Wechat: H523586895
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 One papers are accepted by ICCV2025.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](https://arxiv.org/abs/2508.11265)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Pei He**, Lingling Li, Licheng Jiao, Ronghua Shang, Fang Liu, Shuang Wang, Xu Liu, Wenping Ma
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**code**](https://github.com/ChicalH/DCGL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/ACMMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Domain Generalization-Aware Uncertainty Introspective Learning for 3D Point Clouds Segmentation](https://dl.acm.org/doi/pdf/10.1145/3664647.3681574)
+
+**Pei He**, Licheng Jiao, Lingling Li, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang, Ronghua Shang
+
+[**code**](https://github.com/ChicalH/DGUIL) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Domain Generalization, Point Clouds, 3D Semantic Segmentation, Uncertainty Introspective Learning 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/TNNLS' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Patch Diversity Transformer for Domain Generalized Semantic Segmentation](https://dl.acm.org/doi/pdf/10.1145/3664647.3681574)
+
+**Pei He**, Licheng Jiao, Ronghua Shang, Xu Liu, Fang Liu, Shuyuan Yang, Xiangrong Zhang, Shuang Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/TMM' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-Domain Scene Unsupervised Learning Segmentation With Dynamic Subdomains](https://ieeexplore.ieee.org/abstract/document/10403926)
+
+**Pei He**, Licheng Jiao, Fang Liu, Xu Liu, Ronghua Shang, Shuang Wang
+
+[**code**](https://github.com/ChicalH/SSDA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/TGRS' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MANet: Multi-scale aware-relation network for semantic segmentation in aerial scenes](https://ieeexplore.ieee.org/abstract/document/9785828/)
+
+**Pei He**, Licheng Jiao, Ronghua Shang, Shuang Wang, Xu Liu, Dou Quan, Kun Yang, Dong Zhao
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/TNNLSRE' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Brain-Inspired Learning, Perception, and Cognition: A Comprehensive Review](https://ieeexplore.ieee.org/abstract/document/10540615/)
+
+Licheng Jiao, Mengru Ma, **Pei He**, Xueli Geng, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang, Biao Hou, Xu Tang
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01* The Shenglu Scholarship. 
+- *2025.06* Outstanding graduate students from Xidian University.
+- *2019.09* Runner-up Award (total 1520 teams),  Alibaba Company County Brain AI Challenge 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.06*, PhD, Xidian University, School of Artificial Intelligence. 
+- *2018.09 - 2020.06*, Master, Xidian University, School of Artificial Intelligence. 
+- *2014.09 - 2018.06*, Bachelor, Xidian University, School of Communication Engineering. 
+
+# 💻 Academic Service
+- Conference Committee Member,
+- Reviewer for Conference (NeurlPS、ICML、ICLR、ACM MM、AAAI)
+- Reviewer for Journal (TEEE TPAMI、TIP、TNNLS、TCSVT、TMM) 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09*, ICCV Preliminary Lecture Invited by AITIME [Lorem](), China.
