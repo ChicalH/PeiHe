@@ -75,7 +75,6 @@ ACM International Conference on Multimedia (ACMMM 2024)
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2023)
 
 [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144687) 
-[Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_9ZVP1wAAAAJ&citation_for_view=_9ZVP1wAAAAJ:d1gkVwhDpl0C)
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:d1gkVwhDpl0C'></span></strong>
 </div>
 </div>
@@ -107,7 +106,7 @@ IEEE Transactions on Multimedia (TMM, 2024)
 IEEE Transactions on Geoscience and Remote Sensing (TGRS, 2022)
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9785828)) 
-[Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -122,7 +121,7 @@ Licheng Jiao*, Mengru Ma, **Pei He**, Xueli Geng, Xu Liu, Fang Liu, Wenping Ma, 
 IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2024)
 
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540615))
-[Project](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_9ZVP1wAAAAJ&citation_for_view=_9ZVP1wAAAAJ:UeHWp8X0CEIC)<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:UeHWp8X0CEIC'></span></strong>
+<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
 
