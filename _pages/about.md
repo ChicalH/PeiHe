@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a full-time postdoctoral fellow at Xidian University. I received my Ph.D. from the School of Artificial Intelligence at Xidian University, with Professor [Jiao Licheng](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en) as my advisor.
+I am currently a full-time postdoctoral fellow at Xidian University. I received my Ph.D. from the School of Artificial Intelligence at Xidian University, with Professor [Licheng Jiao](https://scholar.google.com/citations?user=FZbrL2YAAAAJ&hl=en) as my advisor.
 
 My research interest includes Computer Vision, 3D Point Cloud, Generalized Representation, Semantic Segmentation. 
 
@@ -126,7 +126,6 @@ Licheng Jiao*, Mengru Ma, **Pei He**, Xueli Geng, Xu Liu, Fang Liu, Wenping Ma, 
 - *2014.09 - 2018.06*, Bachelor, Xidian University, School of Communication Engineering. 
 
 # 💻 Academic Service
-- Conference Committee Member,
 - Reviewer for Conference (NeurlPS、ICML、ICLR、ACM MM、AAAI)
 - Reviewer for Journal (TEEE TPAMI、TIP、TNNLS、TCSVT、TMM) 
 
