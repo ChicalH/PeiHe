@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pei He"
-description              : "Full-time postdoctoral fellow at Xidian University"
+description              : "3D Point Cloud, Generalized Representation, Semantic Segmentation"
 repository               : "chicalh.github.io/PeiHe/"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pei He"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/hp.jpg"
   bio              : "Xidian University"
   location         : "Xian, China"
   employer         :
