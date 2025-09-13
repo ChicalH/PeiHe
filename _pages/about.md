@@ -21,8 +21,6 @@ I am currently a full-time postdoctoral fellow at Xidian University. I received 
 
 My research interest includes Computer Vision, 3D Point Cloud, Generalized Representation, Semantic Segmentation. 
 
-<a href='https://scholar.google.com/citations?user=_9ZVP1wAAAAJ&hl=en'>Google scholar citations <strong><span id='total_cit'>140+</span></strong></a> (Google scholar badge <a href='https://scholar.google.com/citations?user=_9ZVP1wAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 PS: If you want to have a chat, always feel free to contact me through e-mail, or Wechat: H523586895
 
 
