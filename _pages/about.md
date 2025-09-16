@@ -56,7 +56,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV 2025)
 ACM International Conference on Multimedia (ACMMM 2024)
 
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3664647.3681574) 
-[Code coming soon](https://github.com/ChicalH/DGUIL) 
+[Code](https://github.com/ChicalH/DGUIL) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:zYLM7Y9cAGgC'></span></strong>
 
 </div>
