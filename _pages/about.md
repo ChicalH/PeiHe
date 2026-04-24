@@ -79,22 +79,6 @@ ACM International Conference on Multimedia (ACMMM 2024)
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[A Patch Diversity Transformer for Domain Generalized Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10144687/)
-
-**Pei He**, Licheng Jiao*, Ronghua Shang, Xu Liu, Fang Liu, Shuyuan Yang, Xiangrong Zhang, Shuang Wang
-
-IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2023)
-
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144687) 
-<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:d1gkVwhDpl0C'></span></strong>
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/TMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -107,6 +91,21 @@ IEEE Transactions on Multimedia (TMM, 2024)
 [PDF]([https://arxiv.org/abs/2508.11265](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10403926)) 
 [Code](https://github.com/ChicalH/SSDA) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:9yKSN-GCB0IC'></span></strong>
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/TNNLS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[A Patch Diversity Transformer for Domain Generalized Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/10144687/)
+
+**Pei He**, Licheng Jiao*, Ronghua Shang, Xu Liu, Fang Liu, Shuyuan Yang, Xiangrong Zhang, Shuang Wang
+
+IEEE Transactions on Neural Networks and Learning Systems (TNNLS, 2023)
+
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10144687) 
+<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:d1gkVwhDpl0C'></span></strong>
 </div>
 </div>
 
