@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pei He"
-description              : "3D Point Cloud, Generalized Representation, Semantic Segmentation"
+description              : "3D Scene Understanding, LiDAR Point Cloud Segmentation, Domain Generalization"
 repository               : "chicalh.github.io/PeiHe/"
 google_scholar_stats_use_cdn : true
 
