@@ -25,21 +25,38 @@ PS: If you want to have a chat, always feel free to contact me through e-mail, o
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One papers are accepted by PR2025.
 - *2025.06*: &nbsp;🎉🎉 One papers are accepted by ICCV2025.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">pr 2025</div><img src='images/pr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Causality-inspired learning semantic segmentation in unseen domain](https://www.sciencedirect.com/science/article/pii/S0031320325016693)
+
+**Pei He**, Lingling Li*, Licheng Jiao, Ronghua Shang, Fang Liu, Shuang Wang, Xu Liu, Wenping Ma
+
+IEEE/CVF International Conference on Computer Vision (pr 2025)
+
+[PDF](https://www.sciencedirect.com/science/article/pii/S0031320325016693)
+[Code](https://github.com/ChicalH/CLSS) 
+<strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:Tyk-4Ss8FVUC'></span></strong>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](https://arxiv.org/abs/2508.11265)
+[Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/html/He_Domain-aware_Category-level_Geometry_Learning_Segmentation_for_3D_Point_Clouds_ICCV_2025_paper.html)
 
-**Pei He**, Lingling Li*, Licheng Jiao*, Ronghua Shang, Fang Liu, Shuang Wang, Xu Liu, Wenping Ma
+**Pei He**, Lingling Li*, Licheng Jiao*, Xu Liu, Fang Liu, Ronghua Shang, Yuwei Guo, Puhua Chen, Shuyuan Yang
 
-IEEE/CVF International Conference on Computer Vision (ICCV 2025)
+Pattern Recognition (ICCV 2025)
 
-[PDF](https://arxiv.org/pdf/2508.11265)
-[Code coming soon](https://github.com/ChicalH/DCGL) 
+[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/He_Domain-aware_Category-level_Geometry_Learning_Segmentation_for_3D_Point_Clouds_ICCV_2025_paper.pdf)
+[Code](https://github.com/ChicalH/DCGL) 
 <strong><span class='show_paper_citations' data='_9ZVP1wAAAAJ&hl=en:Tyk-4Ss8FVUC'></span></strong>
 
 </div>
